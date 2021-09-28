@@ -1,6 +1,6 @@
 {
-  "homepage": "http://mrguzmanc.github.io/re-cycles",
   "name": "open-react-template",
+  "homepage": "http://mrguzmanc.github.io/re-cycles/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
