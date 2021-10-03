@@ -60,34 +60,22 @@ const Hero = ({
               className="mt-0 mb-16 reveal-from-bottom"
               data-reveal-delay="200"
             >
-              Aqui va tu titulo{" "}
-              <span className="text-color-primary">de reciclaje</span>
+              L' <span className="text-color-primary">agoon</span>
             </h1>
             <div className="container-xs">
               <p
                 className="m-0 mb-32 reveal-from-bottom"
                 data-reveal-delay="400"
               >
-                Aqui alguna explicaicon de lo que queras ofrecer, informaicon de
-                la empresa, etc, etc. Mario es gay.
+                Ecolife
               </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button
-                    tag="a"
-                    color="primary"
-                    wideMobile
-                    href="https://cruip.com/"
-                  >
-                    Donar
+                  <Button tag="a" color="primary" wideMobile href="#">
+                    AlDesings
                   </Button>
-                  <Button
-                    tag="a"
-                    color="dark"
-                    wideMobile
-                    href="https://github.com/cruip/open-react-template/"
-                  >
-                    Ver nuestro trabajo
+                  <Button tag="a" color="dark" wideMobile href="#">
+                    Donate
                   </Button>
                 </ButtonGroup>
               </div>
